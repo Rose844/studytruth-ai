@@ -1,0 +1,19 @@
+DEEP NEURAL NETWORKS - ASSIGNMENT 2
+Topic: Backpropagation and Optimizers
+Due Date: 20 September 2025
+
+Instructions:
+1. Derive the backpropagation update rule for a 2-layer neural network
+   with sigmoid activation, showing all chain-rule steps.
+2. Implement gradient descent, momentum, and Adam optimizer from scratch
+   (no deep learning framework) on a small synthetic dataset, and plot
+   the loss curves for comparison.
+3. Explain, with a diagram, how the vanishing gradient problem arises in
+   deep networks with sigmoid/tanh activations, and how ReLU mitigates it.
+4. Submit your code (.ipynb) and a 2-page report comparing convergence
+   speed across the three optimizers.
+
+Evaluation Criteria:
+- Correctness of derivation (30%)
+- Implementation correctness (40%)
+- Quality of analysis and plots (30%)

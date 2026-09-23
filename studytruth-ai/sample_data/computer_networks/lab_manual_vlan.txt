@@ -1,0 +1,40 @@
+COMPUTER NETWORKS LABORATORY MANUAL
+Academic Year: 2025-26 | Version: v1
+Department of Computer Science and Engineering
+
+Lab Experiment 5: VLAN Configuration Using Cisco Packet Tracer
+
+Objective:
+To configure Virtual LANs (VLANs) on a Layer 2 switch and verify that
+devices in different VLANs cannot communicate without inter-VLAN routing.
+
+Equipment/Software Required:
+Cisco Packet Tracer (or equivalent network simulator), 1 switch, 1 router,
+4 end devices.
+
+Procedure:
+1. Connect four PCs to a switch, two ports assigned to VLAN 10 (HR) and
+   two ports assigned to VLAN 20 (Finance).
+2. On the switch, create VLAN 10 and VLAN 20 using the commands:
+   vlan 10
+   name HR
+   vlan 20
+   name Finance
+3. Assign switch ports to the appropriate VLAN using the "switchport
+   access vlan <id>" command in interface configuration mode.
+4. Verify VLAN assignment using "show vlan brief".
+5. Test connectivity between PCs in the same VLAN (should succeed) and
+   between PCs in different VLANs (should fail without inter-VLAN routing).
+6. Configure a router-on-a-stick setup with sub-interfaces to enable
+   inter-VLAN routing, and re-test connectivity across VLANs.
+
+Expected Outcome:
+Students should observe that VLANs isolate broadcast domains at Layer 2,
+and that inter-VLAN routing is required for cross-VLAN communication.
+
+Viva Questions:
+1. What is the purpose of VLAN tagging (802.1Q)?
+2. What is a trunk port and how does it differ from an access port?
+3. Why is inter-VLAN routing needed?
+
+Evaluation: 10 marks (Setup: 4, Verification: 3, Viva: 3)

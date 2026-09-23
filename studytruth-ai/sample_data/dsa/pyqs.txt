@@ -1,0 +1,15 @@
+DATA STRUCTURES AND ALGORITHMS - PREVIOUS YEAR QUESTIONS
+
+2024 End Semester Exam:
+Q1. Explain dynamic programming with the 0/1 knapsack problem. (10 marks)
+Q2. Differentiate between BFS and DFS with an example graph. (8 marks)
+Q3. Explain hashing and collision resolution techniques. (8 marks)
+
+2023 End Semester Exam:
+Q1. Explain dynamic programming and give two example problems solved using it. (10 marks)
+Q2. What is a greedy algorithm? Explain Kruskal's algorithm for MST. (8 marks)
+Q3. Compare merge sort and quick sort in terms of time complexity. (6 marks)
+
+2022 End Semester Exam:
+Q1. Explain AVL tree rotations with an example. (8 marks)
+Q2. What is hashing? Explain linear probing with an example. (8 marks)

@@ -1,0 +1,17 @@
+DATA STRUCTURES AND ALGORITHMS - ASSIGNMENT 3
+Topic: Dynamic Programming and Graphs
+Due Date: 22 September 2025
+
+Instructions:
+1. Solve the 0/1 Knapsack problem using dynamic programming and provide
+   the time and space complexity analysis.
+2. Implement Dijkstra's shortest path algorithm using a priority queue
+   and trace through it on a sample graph with 6 nodes.
+3. Compare the time complexity of Dijkstra's algorithm using an array
+   versus a min-heap implementation.
+4. Submit source code and a short write-up (max 2 pages).
+
+Evaluation Criteria:
+- Correctness of implementation (50%)
+- Complexity analysis (30%)
+- Code clarity and comments (20%)

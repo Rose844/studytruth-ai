@@ -1,0 +1,40 @@
+CN LECTURE NOTES - UNIT 3: NETWORK LAYER AND LAN TECHNOLOGIES
+Faculty: Dept. of CSE | Compiled: September 2025
+
+Lecture 12: IP Addressing and Subnetting
+IP addressing uses a 32-bit address divided into network and host portions.
+Subnetting divides a large network into smaller sub-networks using a subnet
+mask. This helps in efficient utilization of IP address space and improves
+network manageability and security by isolating traffic.
+
+Lecture 13: Routing Algorithms
+Distance vector routing (e.g. RIP) and link state routing (e.g. OSPF) are
+the two major classes of routing algorithms. Distance vector protocols
+share routing tables with neighbors periodically, while link state
+protocols build a complete map of the network topology.
+
+Lecture 14: Virtual LAN (VLAN)
+A Virtual LAN (VLAN) is a logical grouping of devices on one or more
+physical LANs that allows them to communicate as if they were on the same
+network, regardless of their physical location. VLANs are configured on
+switches and are identified using VLAN IDs. IEEE 802.1Q is the standard
+used for VLAN tagging on Ethernet frames.
+
+Key benefits of VLAN:
+- Reduces the size of broadcast domains, improving network performance.
+- Improves security by logically separating sensitive traffic (e.g. HR,
+  Finance) from general traffic without needing separate physical switches.
+- Simplifies network management when devices move between physical
+  locations, since VLAN membership is configuration-based, not location-based.
+
+Inter-VLAN routing is required when devices on different VLANs need to
+communicate; this is typically done using a layer-3 switch or a router
+with a "router-on-a-stick" configuration using sub-interfaces.
+
+VLAN trunking allows a single physical link (trunk port) to carry traffic
+for multiple VLANs between switches, using 802.1Q tags to distinguish
+frames belonging to different VLANs.
+
+Lecture 15: Network Address Translation (NAT)
+NAT allows multiple devices on a private network to share a single public
+IP address when accessing the internet, conserving public IPv4 addresses.

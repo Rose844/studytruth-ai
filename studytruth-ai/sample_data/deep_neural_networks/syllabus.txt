@@ -1,0 +1,23 @@
+DEEP NEURAL NETWORKS (DNN) - SEMESTER SYLLABUS
+Academic Year: 2025-26 | Version: v1 | Approved: August 2025
+
+UNIT 1: Foundations of Neural Networks
+Biological inspiration, perceptron model, multi-layer perceptrons,
+activation functions (sigmoid, tanh, ReLU, softmax), forward propagation.
+
+UNIT 2: Training Neural Networks
+Loss functions, gradient descent, backpropagation algorithm, learning rate,
+optimizers (SGD, Momentum, Adam, RMSProp), overfitting, regularization,
+dropout, batch normalization.
+
+UNIT 3: Convolutional Neural Networks (CNN)
+Convolution operation, pooling layers, CNN architectures (LeNet, AlexNet,
+VGG, ResNet), applications in image classification.
+
+UNIT 4: Recurrent Neural Networks (RNN)
+Sequence modeling, RNN, vanishing gradient problem, Long Short-Term Memory
+(LSTM), Gated Recurrent Units (GRU), applications in NLP and time series.
+
+UNIT 5: Advanced Topics
+Autoencoders, transfer learning, attention mechanism, introduction to
+transformer architecture.

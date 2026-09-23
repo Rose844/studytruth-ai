@@ -1,0 +1,29 @@
+OFFICIAL NOTICE — DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+Notice No: CSE/2025-26/EXM-14
+Issued: 20 September 2025
+
+Subject: End Semester Theory Examination Schedule — Computer Networks (CN)
+
+All students registered for CN (Semester 5) are informed that the End
+Semester Theory Examination for Computer Networks will be conducted as
+per the following schedule:
+
+Exam Date: 2026-10-06
+Reporting Time: 09:00 AM
+Exam Duration: 3 hours
+Venue: Examination Hall Block-C
+Maximum Marks: 100 (Theory: 80, Internal Assessment: 20)
+
+Instructions to students:
+1. Students must carry their college ID card and hall ticket.
+2. The syllabus for this examination is the revised 2025-26 syllabus
+   (version v2), which includes the updated Unit 3 covering VLAN and
+   related LAN technologies introduced this academic year.
+3. Electronic devices, including calculators with programmable memory,
+   are not permitted inside the examination hall.
+4. Students are advised to reach the venue at least 30 minutes before
+   the reporting time.
+
+Issued by:
+Office of the Controller of Examinations
+Department of Computer Science and Engineering

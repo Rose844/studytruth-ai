@@ -1,0 +1,21 @@
+DATA STRUCTURES AND ALGORITHMS (DSA) - SEMESTER SYLLABUS
+Academic Year: 2025-26 | Version: v1 | Approved: August 2025
+
+UNIT 1: Linear Data Structures
+Arrays, linked lists (singly, doubly, circular), stacks, queues, applications.
+
+UNIT 2: Non-Linear Data Structures
+Trees, binary trees, binary search trees (BST), AVL trees, heaps, tries.
+
+UNIT 3: Graphs
+Graph representations (adjacency list, adjacency matrix), BFS, DFS,
+shortest path algorithms (Dijkstra, Bellman-Ford), minimum spanning tree
+(Kruskal, Prim).
+
+UNIT 4: Sorting and Searching
+Bubble sort, insertion sort, merge sort, quick sort, heap sort, binary
+search, time and space complexity analysis (Big-O notation).
+
+UNIT 5: Algorithm Design Techniques
+Greedy algorithms, dynamic programming, divide and conquer, recursion and
+backtracking, hashing and hash tables.

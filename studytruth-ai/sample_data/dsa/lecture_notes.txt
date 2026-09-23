@@ -1,0 +1,21 @@
+DSA LECTURE NOTES - UNIT 5: ALGORITHM DESIGN TECHNIQUES
+Faculty: Dept. of CSE | Compiled: September 2025
+
+Lecture 20: Dynamic Programming
+Dynamic programming (DP) solves problems by breaking them into overlapping
+subproblems and storing the results of subproblems (memoization) to avoid
+redundant computation. Classic DP problems include the knapsack problem,
+longest common subsequence, and matrix chain multiplication.
+
+Lecture 21: Greedy Algorithms
+A greedy algorithm builds a solution piece by piece, always choosing the
+next piece that offers the most immediate benefit. Greedy algorithms work
+well for problems like Huffman coding, activity selection, and Kruskal's
+minimum spanning tree algorithm, but do not always yield a globally optimal
+solution for every problem type.
+
+Lecture 22: Hashing
+A hash table stores key-value pairs and uses a hash function to compute an
+index into an array of buckets. Collisions can be handled using chaining
+(linked lists at each bucket) or open addressing (linear probing, quadratic
+probing, double hashing). Average case lookup, insert, and delete are O(1).

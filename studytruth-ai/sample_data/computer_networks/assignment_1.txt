@@ -1,0 +1,17 @@
+COMPUTER NETWORKS - ASSIGNMENT 1
+Topic: Error Detection Techniques
+Due Date: 15 September 2025
+
+Instructions:
+1. Explain the working of the checksum method for error detection with a
+   worked numerical example (add binary words, take 1's complement).
+2. Compute the Cyclic Redundancy Check (CRC) for the bit stream
+   1101011011 using the generator polynomial x^4 + x + 1.
+3. Compare checksum and CRC in terms of error detection capability and
+   computational complexity.
+4. Submit a 2-page report with worked examples for both methods.
+
+Evaluation Criteria:
+- Correctness of numerical computation (60%)
+- Clarity of explanation (25%)
+- Comparison quality (15%)

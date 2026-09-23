@@ -1,0 +1,27 @@
+DNN LECTURE NOTES - UNIT 2: TRAINING NEURAL NETWORKS
+Faculty: Dept. of CSE (AI/ML) | Compiled: September 2025
+
+Lecture 8: Backpropagation
+Backpropagation is the algorithm used to compute the gradient of the loss
+function with respect to each weight in the network by applying the chain
+rule of calculus, propagating the error backward from the output layer to
+the input layer. It allows gradient-based optimizers to update weights
+efficiently.
+
+Lecture 9: Gradient Descent and Optimizers
+Gradient descent updates weights in the direction that reduces the loss
+function. Adam optimizer combines momentum and adaptive learning rates,
+making it one of the most widely used optimizers in practice due to its
+fast convergence on a wide range of problems.
+
+Lecture 10: Overfitting and Regularization
+Overfitting occurs when a model performs well on training data but poorly
+on unseen data. Dropout randomly disables a fraction of neurons during
+training to prevent co-adaptation of features. Batch normalization
+normalizes layer inputs, which stabilizes and speeds up training.
+
+Lecture 11: Convolutional Neural Networks
+A CNN uses convolutional layers with learnable filters to automatically
+extract spatial features such as edges, textures, and shapes from images.
+Pooling layers (max pooling, average pooling) reduce spatial dimensions
+and provide translation invariance.

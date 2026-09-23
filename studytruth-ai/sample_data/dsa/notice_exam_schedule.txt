@@ -1,0 +1,21 @@
+OFFICIAL NOTICE — DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING
+Notice No: CSE/2025-26/EXM-11
+Issued: 19 September 2025
+
+Subject: End Semester Theory Examination Schedule — Data Structures and Algorithms (DSA)
+
+Exam Date: 2026-10-02
+Reporting Time: 09:00 AM
+Exam Duration: 3 hours
+Venue: Examination Hall Block-A
+Maximum Marks: 100 (Theory: 80, Internal Assessment: 20)
+
+Instructions to students:
+1. Students must carry their college ID card and hall ticket.
+2. The examination will cover all five units of the 2025-26 syllabus,
+   with emphasis on Unit 3 (Graphs) and Unit 5 (Algorithm Design).
+3. Rough sheets will be provided; no personal notes are allowed.
+
+Issued by:
+Office of the Controller of Examinations
+Department of Computer Science and Engineering

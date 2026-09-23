@@ -1,0 +1,29 @@
+COMPUTER NETWORKS (CN) - SEMESTER SYLLABUS
+Academic Year: 2025-26 | Version: v2 (Revised) | Approved: August 2025
+Department of Computer Science and Engineering
+
+UNIT 1: Introduction to Networks
+Network topologies, OSI reference model, TCP/IP model, transmission media,
+network devices (hub, switch, router, gateway).
+
+UNIT 2: Data Link Layer
+Error detection and correction, checksum, cyclic redundancy check (CRC),
+framing, flow control, CSMA/CD, Ethernet standards, MAC addressing, ARP.
+
+UNIT 3: Network Layer and LAN Technologies
+IP addressing, subnetting, routing algorithms (distance vector, link state),
+Virtual LAN (VLAN) concepts, VLAN tagging (802.1Q), VLAN trunking, benefits
+of VLAN segmentation for broadcast domain isolation, inter-VLAN routing,
+Network Address Translation (NAT).
+
+UNIT 4: Transport Layer
+TCP, UDP, congestion control, flow control, three-way handshake, sliding
+window protocol, quality of service.
+
+UNIT 5: Application Layer and Network Security
+DNS, HTTP/HTTPS, email protocols, firewalls, network security fundamentals,
+VPN basics, wireless LAN (802.11) standards.
+
+Note: This syllabus supersedes all previous versions. Unit 3 was updated in
+2025 to include Virtual LAN (VLAN) topics in response to industry feedback
+requesting more coverage of enterprise LAN segmentation.

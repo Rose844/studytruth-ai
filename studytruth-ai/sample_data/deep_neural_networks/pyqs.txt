@@ -1,0 +1,16 @@
+DEEP NEURAL NETWORKS - PREVIOUS YEAR QUESTIONS
+
+2024 End Semester Exam:
+Q1. Derive the backpropagation algorithm for a single hidden layer neural
+    network. (10 marks)
+Q2. Explain the vanishing gradient problem and how LSTM addresses it. (8 marks)
+Q3. Compare dropout and batch normalization as regularization techniques. (6 marks)
+
+2023 End Semester Exam:
+Q1. Explain the backpropagation algorithm with a suitable diagram. (10 marks)
+Q2. What is overfitting? Explain any two techniques to reduce overfitting. (8 marks)
+Q3. Describe the architecture of a convolutional neural network. (8 marks)
+
+2022 End Semester Exam:
+Q1. Explain gradient descent and its variants (SGD, Momentum, Adam). (10 marks)
+Q2. Explain backpropagation with the chain rule. (8 marks)

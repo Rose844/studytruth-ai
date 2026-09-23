@@ -1,0 +1,26 @@
+COMPUTER NETWORKS (CN) - SEMESTER SYLLABUS
+Academic Year: 2023-24 | Version: v1 (Original) | Approved: July 2023
+Department of Computer Science and Engineering
+
+UNIT 1: Introduction to Networks
+Network topologies, OSI reference model, TCP/IP model, transmission media,
+network devices (hub, switch, router, gateway).
+
+UNIT 2: Data Link Layer
+Error detection and correction, checksum, cyclic redundancy check (CRC),
+framing, flow control, CSMA/CD, Ethernet standards, MAC addressing, ARP.
+
+UNIT 3: Network Layer
+IP addressing, subnetting, routing algorithms (distance vector, link state),
+Network Address Translation (NAT), introduction to routing protocols
+(RIP, OSPF).
+
+UNIT 4: Transport Layer
+TCP, UDP, congestion control, flow control, three-way handshake, sliding
+window protocol, quality of service.
+
+UNIT 5: Application Layer
+DNS, HTTP, email protocols, basics of network security, firewalls.
+
+Note: This is the original syllabus for the 2023-24 batch. It has since
+been revised - see the updated 2025-26 syllabus for the current curriculum.

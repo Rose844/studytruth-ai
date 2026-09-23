@@ -1,0 +1,26 @@
+COMPUTER NETWORKS - PREVIOUS YEAR QUESTIONS (Compiled from 2022, 2023, 2024 exams)
+
+2024 End Semester Exam:
+Q1. Explain the concept of Virtual LAN (VLAN) and describe how VLAN tagging
+    works using IEEE 802.1Q. (10 marks)
+Q2. What is a checksum? Explain how checksum is used for error detection at
+    the transport layer with a suitable example. (8 marks)
+Q3. Differentiate between distance vector routing and link state routing. (6 marks)
+Q4. Explain subnetting with an example. Given an IP address 192.168.1.0/24,
+    calculate the number of usable hosts if divided into 4 subnets. (10 marks)
+
+2023 End Semester Exam:
+Q1. What is a checksum? Describe the checksum computation process used in
+    IP headers. (8 marks)
+Q2. Explain the TCP three-way handshake process with a diagram. (10 marks)
+Q3. Describe the working of Carrier Sense Multiple Access with Collision
+    Detection (CSMA/CD). (6 marks)
+Q4. What is Network Address Translation (NAT)? Why is it used? (6 marks)
+
+2022 End Semester Exam:
+Q1. Explain the OSI reference model with the function of each layer. (10 marks)
+Q2. What is a checksum? How does it help detect transmission errors? (6 marks)
+Q3. Explain CSMA/CD and its role in Ethernet networks. (8 marks)
+
+Note: Virtual LAN (VLAN) started appearing as an examinable topic from the
+2024 exam cycle onward, consistent with the updated 2025-26 syllabus.
