@@ -1,7 +1,7 @@
 /* StudyTruth AI - API client
    Talks to the FastAPI backend. Change API_BASE if you run the backend
    on a different host/port. */
-const API_BASE = window.STUDYTRUTH_API_BASE || "http://localhost:8000";
+const API_BASE = window.STUDYTRUTH_API_BASE ||"https://studytruth-ai.onrender.com";
 
 async function apiRequest(path, options = {}) {
   const res = await fetch(`${API_BASE}${path}`, {
